@@ -2,4 +2,4 @@
 
 Random Forest Classifier
 
-![accuracy](/img/accuracy.png)
+![accuracy](/assets/img/accuracy.png)

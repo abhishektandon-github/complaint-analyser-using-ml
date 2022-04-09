@@ -2,4 +2,4 @@
 
 Random Forest Classifier
 
-![accuracy](accuracy.png)
+![accuracy](6. img/accuracy.png)

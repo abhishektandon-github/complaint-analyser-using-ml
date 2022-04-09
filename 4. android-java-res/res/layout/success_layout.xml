@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:drawableBottom="@drawable/ic_check_black_56dp"
+        android:padding="5dp"
+        android:drawableTint="#fff"
+        
+        android:background="@color/paypal_green"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Success"
+        android:background="@color/paypal_green"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:padding="5dp"
+        android:textSize="30dp"/>
+</LinearLayout>

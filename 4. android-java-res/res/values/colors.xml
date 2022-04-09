@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#183693</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#4885ed</color>
+    <!--"colorAccent"  actual #FF4081-->
+
+    <color name="google_blue">#4885ed</color>
+    <color name="sl_grey">#11000000</color>
+    <color name="shazam_blue">#0088ff</color>
+    <color name="nokia_blue">#183693</color>
+    <color name="sky_blue">#8c9eff</color>
+    <color name="light_grey">#d3d3d3</color>
+    <color name="spotify_green_light">#8aefad</color>
+    <color name="spotify_green">#1cd25c</color>
+    <color name="white">#fff</color>
+    <color name="light_green">#98FB98</color>
+    <color name="very_light_green">#bcf5bc</color>
+    <color name="paypal_green">#2BCC94</color>
+
+</resources>

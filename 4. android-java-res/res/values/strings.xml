@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Complaint Analyser</string>
+    <string name="none"></string>
+    <string name="mandatory">All fields are mandatory</string>
+    <string name="do_not_match">Passwords do not match</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="mark_as_resolved">Mark As Resolved</string>
+    <string name="delete">Delete</string>
+    <string name="log_out">Log Out</string>
+    <string name="sign_out">Sign out</string>
+</resources>
